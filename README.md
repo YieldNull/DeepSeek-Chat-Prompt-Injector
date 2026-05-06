@@ -49,3 +49,6 @@ While on the DeepSeek Chat page, click the **floating speechâ€‘bubble button ðŸ’
 ### Using the `{{prompt}}` Placeholder
 In your custom prompt text, insert `{{prompt}}` wherever you want the original user message to appear.  
 **Example**:
+
+<img width="382" height="476" alt="image" src="https://github.com/user-attachments/assets/c378db68-23fe-4230-8684-e07ee0245e71" />
+
