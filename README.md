@@ -29,7 +29,7 @@ A Tampermonkey script that automatically injects custom prompts into new convers
    - **Manual install**:
      - Open your userscript manager’s dashboard.
      - Click the **“+”** (new script) button.
-     - Copy the entire content of [`script.user.js`](./script.user.js) and paste it into the editor.
+     - Copy the entire content of [`script.js`](./script.js) and paste it into the editor.
      - Save (`Ctrl+S`). The script will activate on `https://chat.deepseek.com/*`.
 
 ---
